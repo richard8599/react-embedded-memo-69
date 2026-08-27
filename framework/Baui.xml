@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Baui</name>
+    </assembly>
+    <members>
+        <member name="T:Baui.Baui">
+            <summary>
+            BAUI
+            </summary>
+        </member>
+    </members>
+</doc>

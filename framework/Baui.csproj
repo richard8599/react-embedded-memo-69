@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<version>0.0.1</version>
+		<Description>让 MAUI 开发更简单，更通用，更流行。</Description>
+	</PropertyGroup>
+
+</Project>
